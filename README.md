@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navith</h1>
-<h3 align="center">I am a software development student passionate about learning, problem-solving, and writing clean code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navith-25&label=Profile%20views&color=0e75b6&style=flat" alt="navith-25" /> </p>
+---
+<h3 align="center">I am a software development student passionate about learning, problem-solving, and writing clean code.</h3>
 
 ---
 - 🔭 I’m currently working on **HRMS project.**
