@@ -37,7 +37,5 @@ I am a software engineering student passionate about **Backend Development**, **
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navith-25&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navith-25&layout=compact&theme=radical)
