@@ -35,9 +35,3 @@ I am a software engineering student passionate about **Backend Development**, **
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=radical&t=1" height="150" alt="Navith's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navith-25&theme=radical" height="150" alt="Navith's Streak" />
-</p>
