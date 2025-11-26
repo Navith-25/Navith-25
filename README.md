@@ -1,34 +1,43 @@
-<h1>Hi 👋, I'm Navith</h1>
+# Hi 👋, I'm Navith Fernando
+
+I am a software engineering student passionate about **Backend Development**, **System Architecture**, and solving real-world problems with code.
+
+- 🔭 I’m currently working on a **Human Resource Management System (HRMS)**.
+- 🚀 I recently built a **Hybrid Finance Manager** using Spring Boot & Oracle.
+- 🌱 I’m currently exploring **Cloud-Native Java** and **Advanced Database Replication**.
+- 📫 How to reach me: [wwnavith@gmail.com](mailto:wwnavith@gmail.com)
+- 💼 [Connect with me on LinkedIn](#) ---
+
+### 🏆 Featured Project
+
+#### 💸 [Hybrid Personal Finance Manager](https://github.com/Navith-25/financemanager)
+*An offline-first application architected to handle data synchronization between local and cloud databases.*
+
+**The Problem:** Most finance apps require constant internet. I wanted to build a system that works fully offline but offers powerful cloud analytics when connected.
+
+**The Solution:**
+* **Dual-Database Architecture:** Engineered a Spring Boot backend connecting to **SQLite** (for local, offline storage) and **Oracle Database** (for central analytics) simultaneously.
+* **Custom Sync Engine:** Wrote a robust `SyncService` that detects unsynced local records and pushes them to the cloud using **Oracle Stored Procedures**.
+* **Advanced Reporting:** leveraged Oracle PL/SQL to generate complex financial reports like *Budget Adherence* and *6-Month Savings Forecasts*.
+
+**Tech Stack:** Java 17, Spring Boot 3, Oracle DB, SQLite, JavaScript, Maven.
 
 ---
-<h3>I am a software development student passionate about learning, problem-solving, and writing clean code.</h3>
+
+### 🛠️ Languages & Tools
+
+| **Backend** | **Databases** | **Frontend** | **Tools & DevOps** |
+| :--- | :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | | | |
 
 ---
-- 🔭 I’m currently working on **HRMS project.**
 
-- 🌱 I’m currently learning **Diploma in Software Engineering**
+### 📊 GitHub Stats
 
-- 📫 How to reach me **wwnavith@gmail.com**
-
-<p>I am currently improving my skills in Java, Python, and JavaScript while exploring data structures, algorithms, and software design. I enjoy working on challenging projects that help me apply my knowledge to real-world scenarios. I am always eager to learn new technologies, collaborate on projects, and connect with industry professionals to grow as a developer and make a meaningful impact.</p>
-
----
-<h3 align="left">Languages and Tools:</h3>
-<div>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navith-25&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
 </div>
-
-<!--
-**Navith-25/Navith-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
