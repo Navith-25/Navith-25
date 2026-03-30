@@ -5,7 +5,7 @@ I am a Software Engineering student passionate about **Backend Development**, **
 - 🔭 I’m currently exploring **Cloud-Native Java**, **AWS**, and **Advanced Database Replication**.
 - 🚀 I have successfully developed **Lanka Transit**, **TalentScout AI**, and a **Hybrid Finance Manager**.
 - 📫 How to reach me: [wwnavith@gmail.com](mailto:wwnavith@gmail.com)
-- 💼 [www.linkedin.com/in/navith-nethmika](www.linkedin.com/in/navith-nethmika) 
+- 💼 [www.linkedin.com/in/navith-nethmika](#) 
 
 ---
 
@@ -14,6 +14,7 @@ I am a Software Engineering student passionate about **Backend Development**, **
 #### 🚌 Lanka Transit
 *A comprehensive public transit management and ticketing mobile ecosystem.*
 * **The Build:** Architected a robust backend using **Java Spring Boot** and developed a cross-platform mobile application using **Flutter (Dart)**.
+* **DevOps & Deployment:** Containerized the backend services using **Docker** to ensure consistent, scalable, and efficient deployment.
 * **Features:** Integrated live mapping, digital ticketing with QR code scanning, and role-based access control for admins, bus owners, drivers, and passengers.
 
 #### 🎯 TalentScout AI
@@ -34,11 +35,11 @@ I am a Software Engineering student passionate about **Backend Development**, **
 
 ### 🛠️ Languages & Tools
 
-| **Backend & Core** | **Databases & Cloud** | **Frontend & Mobile** | **Tools & Hardware** |
+| **Backend & Core** | **Databases & Cloud** | **Frontend & Mobile** | **Tools, DevOps & Hardware** |
 | :--- | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
 
 ---
