@@ -5,7 +5,7 @@ I am a Software Engineering student passionate about **Backend Development**, **
 - 🔭 I’m currently exploring **Cloud-Native Java**, **AWS**, and **Advanced Database Replication**.
 - 🚀 I have successfully developed **Lanka Transit**, **TalentScout AI**, and a **Hybrid Finance Manager**.
 - 📫 How to reach me: [wwnavith@gmail.com](mailto:wwnavith@gmail.com)
-- 💼 [www.linkedin.com/in/navith-nethmika](navith-nethmika) 
+- 💼 [navith-nethmika](www.linkedin.com/in/navith-nethmika) 
 
 ---
 
