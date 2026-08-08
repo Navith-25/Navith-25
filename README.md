@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Navith Fernando</h1>
-  <h3>Software Engineering Student & Backend Developer</h3>
-  <p>Passionate about <b>System Architecture</b>, <b>Cloud-Native Development</b>, and building scalable, intelligent solutions.</p>
+  <h3>Backend & Cloud-Native Developer | Building toward DevOps</h3>
+  <p>Software Engineering student at NIBM. I build backend systems with Spring Boot and Flutter, and I'm currently deepening into Docker, CI/CD, and AWS to ship and run what I build, not just write it.</p>
 
   <a href="mailto:wwnavith@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -9,62 +9,63 @@
   <a href="https://linkedin.com/in/navith-nethmika">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.fiverr.com/navithnethmika">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🔭 Currently
 
-I am currently pursuing a Higher National Diploma in Software Engineering at NIBM, focusing on robust backend architectures and full-stack development. I enjoy bridging the gap between complex business logic and efficient database management.
-
-- 🔭 **Currently exploring:** Cloud-Native Java, AWS Fundamentals, and Advanced Database Replication.
-- 🚀 **Core competencies:** RESTful APIs, Containerization (Docker), Role-Based Access Control (RBAC), and custom algorithmic data structures.
-- 🤝 **Community:** Organized charity initiatives and actively engaged in the AWS Cloud Club.
+- **Learning:** Docker → CI/CD (GitHub Actions, Jenkins) → Kubernetes → AWS — following a structured DevOps path alongside my backend work
+- **Building:** Backend APIs and cross-platform apps, freelancing on Fiverr as a full-stack/backend developer
+- **Open to:** Software Engineering / DevOps internships
 
 ---
 
 ### 🏆 Featured Projects
 
-#### 🏢 [DG5 HR Management System (HRMS)](#) 
-*Enterprise-grade Human Resource Management built for Rapid Application Development (RAD).*
-* **Tech Stack:** Java Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, MySQL.
-* **Architecture:** Implemented robust Role-Based Access Control (RBAC) with distinct dashboards for Directors, HR Managers, Finance, and Employees.
-* **Features:** Engineered automated payroll processing, dynamic loan deduction algorithms, performance review tracking, and a built-in internal messaging ecosystem.
+**[DG5 HR Management System](https://github.com/Navith-25/REPO_NAME_HERE)** — Enterprise HRMS with role-based access control across 5 dashboards, automated payroll engine, and scheduled leave-reset jobs.
+`Spring Boot` `Spring Security` `MySQL` `Thymeleaf` · [Live Demo →](https://hrms-tz88.onrender.com/)
 
-#### 🚌 [Lanka Transit](#)
-*A comprehensive public transit management and ticketing cloud ecosystem.*
-* **Tech Stack:** Java Spring Boot, Flutter (Dart), Docker, Google Maps API, JWT.
-* **Architecture:** Containerized the Spring Boot backend using Docker for seamless cloud deployment and scalable real-time processing.
-* **Features:** Cross-platform mobile app with live GPS map tracking, digital ticketing with QR code validation, and a multi-tier fleet management system for bus owners and drivers.
+**[Lanka Transit](https://github.com/Navith-25/REPO_NAME_HERE)** — Cross-platform public transit app with live GPS tracking, QR ticketing, and a Dockerized Spring Boot backend for 4 user roles (passenger/driver/owner/admin).
+`Flutter` `Spring Boot` `Docker` `Google Maps API` `JWT`
 
-#### 🧠 [TalentScout AI](#)
-*An intelligent candidate prioritization backend engineered to eliminate hiring bias and optimize screening.*
-* **Tech Stack:** Java Spring Boot, Custom Data Structures.
-* **Architecture:** Engineered a purely Java-based backend utilizing a custom `CandidateMaxHeap` for $O(1)$ priority retrieval.
-* **Features:** Automated CV parsing, dynamic scoring weights, "Blind Hiring" DTOs to strip PII, and an `AntiStarvationScheduler` background service to ensure fair queue processing.
+**[TalentScout AI](https://github.com/Navith-25/REPO_NAME_HERE)** — Candidate ranking backend using a custom Max-Heap for O(1) priority retrieval, with an anti-starvation scheduler and bias-reducing blind-hiring mode.
+`Spring Boot` `WSO2 Asgardeo (OAuth2/OIDC)` `Custom Data Structures`
 
-#### 💸 [Hybrid Personal Finance Manager](#)
-*An offline-first application architected to handle complex data synchronization.*
-* **Tech Stack:** Spring Boot, SQLite, Oracle Database.
-* **Architecture:** Dual-database engineering connecting to SQLite for local storage and Oracle for centralized cloud analytics.
-* **Features:** Custom `SyncService` utilizing Oracle Stored Procedures to detect, batch, and securely push offline transactions to the cloud upon network restoration.
+**[Smart IoT Mailbox](https://github.com/Navith-25/REPO_NAME_HERE)** — Event-driven hardware/software integration that detects mail delivery and pushes real-time notifications.
+`C++` `ESP32` `Webhooks`
 
-#### 📡 [Smart IoT Mailbox](#)
-*A hardware-software integration bridging physical delivery with digital notifications.*
-* **Tech Stack:** C++, ESP32 Microcontrollers, Physical Sensors, Webhooks.
-* **Architecture:** Real-time event-driven architecture relying on sensor thresholds.
-* **Features:** Detects physical mail insertion in real-time and securely broadcasts actionable push notifications/alerts to connected devices.
+**[Hybrid Personal Finance Manager](https://github.com/Navith-25/REPO_NAME_HERE)** — Offline-first finance app syncing local SQLite to a central Oracle DB for reporting and forecasting.
+`Spring Boot` `SQLite` `Oracle`
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Core Stack
 
-| **Backend & Core** | **Databases & Cloud** | **Frontend & Mobile** | **Tools & DevOps** |
-| :--- | :--- | :--- | :--- |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![HTML/CSS](https://img.shields.io/badge/HTML5/CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) |
+**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+**Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Data:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**DevOps (learning):** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Embedded:** ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navith-25&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to Software Engineering & DevOps internships — reach out via <a href="mailto:wwnavith@gmail.com">email</a> or <a href="https://linkedin.com/in/navith-nethmika">LinkedIn</a>.</sub>
+</div>
