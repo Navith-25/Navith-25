@@ -60,9 +60,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navith-25&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Navith-25&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navith-25&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </div>
+
+<!-- If the cards above don't load (the free service is occasionally down), use this alternative instead: -->
+<!--
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Navith-25&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+-->
 
 ---
 
